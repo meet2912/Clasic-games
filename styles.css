@@ -15,7 +15,12 @@ body{
     z-index: 1;
     border-radius: 10px;
 }
- 
+ #cg{
+    display: flex;
+    align-items: center;
+    justify-items: center;
+    gap: 20px;
+ }
 #img{
     border-radius: 10px;
     overflow: hidden;
